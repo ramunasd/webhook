@@ -1,0 +1,12 @@
+{
+    "name": "ramunasd/webhook",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ramūnas Dronga",
+            "email": "ieskok@ramuno.lt"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
